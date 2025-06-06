@@ -10,11 +10,16 @@ I'm a Software Developer
 
 ## 📊 GitHub Stats
 
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeodorDichev&show_icons=true&theme=dark&rank_icon=github&custom_title=Teodor%20Dichev's%20GitHub%20Stats" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorDichev&layout=compact&theme=dark" width="350" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=slavi115&show_icons=true&theme=dark&rank_icon=github&custom_title=Slavi%20Rezashki's%20GitHub%20Stats" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slavi115&layout=compact&theme=dark" height="200"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
