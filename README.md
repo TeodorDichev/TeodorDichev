@@ -12,8 +12,8 @@ I'm a Software Developer
 
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&rank_icon=github&custom_title=Teodor%20Dichev's%20GitHub%20Stats" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TeodorDichev&show_icons=true&theme=dark&rank_icon=github&custom_title=Teodor%20Dichev's%20GitHub%20Stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorDichev&layout=compact&theme=dark" width="350" />
 </div>
 
 ---
