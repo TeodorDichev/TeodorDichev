@@ -13,10 +13,10 @@ I'm a Software Developer
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=slavi115&show_icons=true&theme=dark&rank_icon=github&custom_title=Slavi%20Rezashki's%20GitHub%20Stats" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=TeodorDichev&show_icons=true&theme=dark&rank_icon=github&custom_title=Teodor%20Dichev's%20GitHub%20Stats" height="200"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slavi115&layout=compact&theme=dark" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorDichev&layout=compact&theme=dark" height="200"/>
     </td>
   </tr>
 </table>
