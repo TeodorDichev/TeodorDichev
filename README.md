@@ -18,6 +18,9 @@ I'm a Software Developer
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorDichev&layout=compact&theme=dark" height="200"/>
     </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/TeodorDichev?ext=heatmap" alt="LeetCode Stats" height="200"/>
+    </td>
   </tr>
 </table>
 
@@ -38,6 +41,7 @@ I'm a Software Developer
 
 ### Back-End Frameworks
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Unit Testing and Error Handling
 ![NUnit](https://img.shields.io/badge/NUnit-2A2A2A?style=for-the-badge&logo=dotnet&logoColor=white)
