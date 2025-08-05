@@ -13,15 +13,12 @@ I'm a Software Developer
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=TeodorDichev&show_icons=true&theme=dark&rank_icon=github&custom_title=Teodor%20Dichev's%20GitHub%20Stats" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorDichev&layout=compact&theme=white" height="300"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorDichev&layout=compact&theme=dark" height="200"/>
+      <img src="https://leetcard.jacoblin.cool/TeodorDichev?ext=heatmap" alt="LeetCode Stats" height="300"/>
+    </td>
 </table>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/TeodorDichev?ext=heatmap" alt="LeetCode Stats" height="200"/>
-</p>
----
 
 ## 🛠️ Technical Skills
 
