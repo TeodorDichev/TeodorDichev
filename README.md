@@ -17,13 +17,10 @@ I'm a Software Developer
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorDichev&layout=compact&theme=dark" height="200"/>
-    </td>
-    <td>
-      <img src="https://leetcard.jacoblin.cool/TeodorDichev?ext=heatmap" alt="LeetCode Stats" height="200"/>
-    </td>
-  </tr>
 </table>
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/TeodorDichev?ext=heatmap" alt="LeetCode Stats" height="200"/>
+</p>
 ---
 
 ## 🛠️ Technical Skills
