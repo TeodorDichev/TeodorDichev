@@ -13,7 +13,8 @@ I'm a Software Developer
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorDichev&layout=compact&theme=white" height="300"/>
+      <!-- STATS -->
+      <!-- END STATS -->
     </td>
     <td>
       <img src="https://leetcard.jacoblin.cool/TeodorDichev?ext=heatmap" alt="LeetCode Stats" height="300"/>
