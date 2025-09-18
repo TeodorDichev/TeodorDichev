@@ -10,7 +10,9 @@ I'm a Software Developer
 
 ## 📊 GitHub Stats
 <!-- STATS -->
-      <!-- END STATS -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeodorDichev&show_icons=true&theme=radical&token=***hidden***&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorDichev&layout=compact&theme=radical&token=***hidden***&cache_seconds=86400)
+<!-- END STATS -->
 <table>
   <tr>
     <td>
