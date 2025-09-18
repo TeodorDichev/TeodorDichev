@@ -9,7 +9,8 @@ I'm a Software Developer
 ---
 
 ## 📊 GitHub Stats
-
+<!-- STATS -->
+      <!-- END STATS -->
 <table>
   <tr>
     <td>
