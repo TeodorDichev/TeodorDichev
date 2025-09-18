@@ -12,13 +12,10 @@ I'm a Software Developer
 
 <table>
   <tr>
-<td>
-  <img src="https://streak-stats.demolab.com?user=TeodorDichev&theme=radical&hide_border=true" alt="GitHub Streak" height="200"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=TeodorDichev&theme=radical&no-bg=true&no-frame=true" alt="Trophies" height="200"/>
-</td>
-
     <td>
-      <!-- LeetCode stats -->
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeodorDichev&theme=react-dark" alt="GitHub Activity Graph"/>
+    </td>
+    <td>
       <img src="https://leetcard.jacoblin.cool/TeodorDichev?theme=dark&ext=heatmap" alt="LeetCode Stats" height="300"/>
     </td>
   </tr>
