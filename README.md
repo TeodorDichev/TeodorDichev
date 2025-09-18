@@ -13,10 +13,10 @@ I'm a Software Developer
 <table>
   <tr>
     <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeodorDichev&theme=react-dark" alt="GitHub Activity Graph"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeodorDichev&theme=react-dark" alt="GitHub Activity Graph" height="400"/>
     </td>
     <td>
-      <img src="https://leetcard.jacoblin.cool/TeodorDichev?theme=dark&ext=heatmap" alt="LeetCode Stats" height="300"/>
+      <img src="https://leetcard.jacoblin.cool/TeodorDichev?theme=dark&ext=heatmap" alt="LeetCode Stats" height="400"/>
     </td>
   </tr>
 </table>
