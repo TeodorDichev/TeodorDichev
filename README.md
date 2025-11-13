@@ -39,8 +39,11 @@ I'm a Software Developer
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Unit Testing and Error Handling
+### Testing
 ![NUnit](https://img.shields.io/badge/NUnit-2A2A2A?style=for-the-badge&logo=dotnet&logoColor=white)
+![Moq](https://img.shields.io/badge/Moq-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-8D6E63?style=for-the-badge&logo=java&logoColor=white)
 
 ### Styling
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
