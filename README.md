@@ -10,13 +10,13 @@ I'm a Software Developer
 
 ## 📊 GitHub & LeetCode Stats
 
-<table>
+<table align="center">
   <tr>
-    <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeodorDichev&theme=react-dark" alt="GitHub Activity Graph" height="400"/>
+    <td width="64%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeodorDichev&theme=react-dark" alt="GitHub Activity Graph" width="100%"/>
     </td>
-    <td>
-        <img src="https://leetcard.jacoblin.cool/TeodorDichev?theme=dark&ext=heatmap" alt="LeetCode Stats" height="400"/>
+    <td width="36%" align="center">
+      <img src="https://leetcard.jacoblin.cool/TeodorDichev?theme=dark&ext=heatmap" alt="LeetCode Stats" width="100%"/>
     </td>
   </tr>
 </table>
@@ -27,15 +27,10 @@ I'm a Software Developer
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
-### Front-End Frameworks
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
 ### Back-End Frameworks
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -44,6 +39,9 @@ I'm a Software Developer
 ![Moq](https://img.shields.io/badge/Moq-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-8D6E63?style=for-the-badge&logo=java&logoColor=white)
+
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Styling
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
